@@ -1,0 +1,7 @@
+{
+    "name": "Real Weather Card",
+    "type": "module",
+    "url": "real-weather-card.js",
+    "description": "Um card que mostra temperatura e chuva com ícones dinâmicos.",
+    "authors": ["marianoSilva"]
+  }
