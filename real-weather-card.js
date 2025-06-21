@@ -53,5 +53,5 @@ class MyWeatherCard extends HTMLElement {
     }
   }
   
-  customElements.define('my-weather-card', MyWeatherCard);
+  customElements.define('real-weather-card', MyWeatherCard);
   

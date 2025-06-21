@@ -1,0 +1,14 @@
+type: custom:real-weather-card
+name: Real Weather Card
+description: Card de clima com temperatura e chuva
+
+options:
+  - name: temperature
+    selector:
+      entity:
+        domain: sensor
+
+  - name: rain
+    selector:
+      entity:
+        domain: binary_sensor
