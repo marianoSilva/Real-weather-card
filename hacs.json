@@ -1,7 +1,7 @@
 {
     "name": "Real Weather Card",
-    "type": "module",
-    "url": "real-weather-card.js",
+    "filename": "real-weather-card.js",
+    "homeassistant": "2024.8",
     "description": "Um card que mostra temperatura e chuva com ícones dinâmicos.",
     "authors": ["marianoSilva"]
   }
